@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Arthurfcf/Node-typeScript-api/issues"
   },
-  "homepage": "https://github.com/Arthurfcf/Node-typeScript-api#readme"
+  "homepage": "https://github.com/Arthurfcf/Node-typeScript-api#readme",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
 }
